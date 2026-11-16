@@ -1,0 +1,27 @@
+=== NeuroStartUp ===
+status:
+## new-text
+branches:
+main
+* new-text
+log:
+* b35453a (HEAD -> new-text) Добавлен список клиентов
+* b387b7a (main) Initial commit: NeuroStartUp
+fsck:
+
+
+=== git-2-homeworks-merge ===
+status:
+## main
+branches:
+* main
+  remotes/origin/earlyorder
+  remotes/origin/main
+log:
+*   ca7fc9d (HEAD -> main) Merge origin/earlyorder into main; resolve README conflict
+|\  
+| * b6a3714 (origin/earlyorder) Add earlyorder text
+* | cdacda1 (origin/main) Add legal text
+|/  
+* 22ed7e6 Initial commit
+fsck:
